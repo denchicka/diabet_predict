@@ -1,6 +1,5 @@
 # 🧠 Diabetes Prediction with Random Forest
 
----
 
 ## 📌 Project Description | Описание проекта
 
